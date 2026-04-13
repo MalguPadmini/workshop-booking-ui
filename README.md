@@ -30,10 +30,15 @@ A React-based UI/UX redesign of the FOSSEE workshop_booking Django portal. Keeps
 - **Architecture**: Bridging the gap between Django’s SSR and React’s SPA approach via proxy.
 - **Concurrency**: Seat availability requires WebSockets or polling for real-time accuracy.
 
+## Future Improvements
+- Backend integration with Django APIs
+- Real-time booking updates
+- Advanced filtering and search
+
 ## Getting Started
 
 ### Installation
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/MalguPadmini/workshop-booking-ui.git>
 cd workshop-booking
 npm install
