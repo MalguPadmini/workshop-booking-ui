@@ -20,20 +20,20 @@ A React-based UI/UX redesign of the FOSSEE workshop_booking Django portal. Keeps
 
 ## Responsiveness
 - **CSS Grid**: Utilises `auto-fill / minmax()` for flexible multi-column layouts.
-- **Fluid Type**: Uses `clamp()` for scaling fonts without breakpoint-dependent overrides.
+- **Fluid Type**: Uses `clamp()` for sscaling fonts without breakpoint-dependent overrides.
 - **Navigation**: Mobile drawer menu with an animated hamburger icon.
 - **Touch Ready**: Minimum 44px targets on all interactive elements.
 
 ## Trade-offs & Challenges
 - **Data Layer**: Currently uses mock data; requires backend CORS configuration for production Django API.
-- **Statistics**: Charts deferred (SVG-based implementation recommended for v2).
-- **Architecture**: Bridging the gap between Django’s SSR and React’s SPA approach via proxy.
+- **Statistics**: Charts deferred (SVG bassed implementation recommended  v2).
+- **Architecture**: Bridging the gap between Django’s SSR and React’s SPA approach via- proxy.
 - **Concurrency**: Seat availability requires WebSockets or polling for real-time accuracy.
 
 ## Future Improvements
 - Backend integration with Django APIs
-- Real-time booking updates
-- Advanced filtering and search
+- Real-time booking updating
+- Advanced filtering and searches
 
 ## Getting Started
 
