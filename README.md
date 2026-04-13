@@ -37,6 +37,10 @@ A React-based UI/UX redesign of the FOSSEE workshop_booking Django portal. Keeps
 
 ## Getting Started
 
+## From Author : 
+- This project is complete as a part of my FOSSEE Summer Fellowship Screening task , in the category of Python - UI/UX Design based Project!.
+Thank You.
+
 ### Installation
 ```bash
 git clone <https://github.com/MalguPadmini/workshop-booking-ui.git>
