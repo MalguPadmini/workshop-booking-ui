@@ -1,6 +1,6 @@
 # FOSSEE Workshop Booking Portal — React UI Redesign
-~Padmini Malgu
-IIIT Kota
+Autor : Padmini Malgu (IIIT Kota)
+
 ## Overview
 A React-based UI/UX redesign of the FOSSEE workshop_booking Django portal. Keeps all core functionality (workshop listing, booking, dashboard, profiles) while modernising the visual layer from Bootstrap 3 to a custom, accessible design system.
 
